@@ -1,0 +1,15 @@
+.fixed-to-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+}
+
+.bold-word {
+    font-weight: bold;
+}
+
+.multiline {
+    white-space: pre-line;
+}
