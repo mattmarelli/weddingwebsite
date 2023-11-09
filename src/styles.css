@@ -13,3 +13,8 @@
 .multiline {
     white-space: pre-line;
 }
+
+.scrollable {
+    height: 1000px;
+    overflow-y: scroll;
+}
