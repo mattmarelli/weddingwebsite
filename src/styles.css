@@ -15,10 +15,18 @@
 }
 
 .scrollable {
-    height: 1000px;
+    height: 1500px;
     overflow-y: scroll;
 }
 
 .white-text {
     color: white;
+}
+
+.red-text {
+    color: red;
+}
+
+.large-font {
+    font-size: larger;
 }
