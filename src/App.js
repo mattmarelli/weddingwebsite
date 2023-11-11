@@ -96,6 +96,10 @@ function App() {
           outside of the city to save money suggestions include Airway Heights or Spokane Valley.<br/>
           Can't wait to celebrate with you all on our special day!
         </p>
+        <p>
+          <span className='bold-word'> Photos </span><br/>
+          *Too lazy to fix mobile just zoom out on your phone or look on desktop        
+        </p>
         <img src={photo_twenty_four} alt='photo twenty four'/>
         <img src={photo_twenty_three} alt='photo twenty three'/>
         <img src={photo_nineteen} alt='photo nineteen'/>
