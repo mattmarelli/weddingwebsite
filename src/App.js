@@ -93,7 +93,8 @@ function App() {
           (Make sure you account for the parking policies at these hotels.)<br/>
           <br/>
           If you don't plan to go out after the wedding, we recommend staying somewhere<br/>
-          outside of the city to save money suggestions include Airway Heights or Spokane Valley.<br/>
+          outside of the city to save money.<br/>
+          Suggestions include Airway Heights or Spokane Valley.<br/>
           Can't wait to celebrate with you all on our special day!
         </p>
         <p>
