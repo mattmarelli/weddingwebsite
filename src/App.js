@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App scrollable">
       <header>
-        <p>
+        <p className='bold-word'>
           Welcome to Mary Ellen and Matt's wedding website!
         </p>
         <p>
@@ -39,7 +39,7 @@ function App() {
           <span className='bold-word'> Attire </span><br/>
           Casual but nice please 😊<br/>
           Our wedding venue is outdoors with covered spaces. Please check the weather and dress accordingly.<br/>
-          Don’t forget a jacket and girls if you decide to wear heels, wedges are recommended – lots of grass!
+          Don’t forget a jacket, an umbrella, and girls if you decide to wear heels, wedges are recommended – lots of grass!
         </p>
         <p>
           <span className='bold-word'> Registry </span><br/>
