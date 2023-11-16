@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <p className='bold-word large-font'>
+        <p className='bold-word large-font no-margin-top'>
           Welcome to Mary Ellen and Matt's wedding website!
         </p>
         <p>
@@ -55,7 +55,7 @@ function App() {
           <br/>
           <span className='bold-word'> When </span><br/>
           May 18th, 2024<br/>
-          Ceremony starts at <span className='bold-word'> TBD </span><br/>
+          Ceremony starts at <span className='bold-word'> 4:00pm </span><br/>
           Reception ends at 9:00PM
         </p>
         <p>
@@ -78,7 +78,7 @@ function App() {
           <br/>
           <span className='bold-word'> Food & Drink </span><br/>
           This will be a completely GLUTEN FREE wedding!<br/>
-          Food will be catered by a local restaurant chain - <a href='https://thaibamboorestaurant.com/' target='_blank'>Thai Bamboo</a>.<br/>
+          Food will be catered by a local Thai restaurant<br/>
           Our drinks will include water, soda, cider, seltzers, and wine - no hard alcohol.
         </p>
         <p>
