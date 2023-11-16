@@ -30,3 +30,7 @@
 .large-font {
     font-size: larger;
 }
+
+.no-margin-top {
+    margin-top: 0px;
+}
